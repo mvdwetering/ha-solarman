@@ -1,7 +1,8 @@
 #
 # Solis 3P5~10K-4G | 5~10kW | Three Phase Inverter
 #
-# Reference: https://oss.soliscloud.com/templet/RS485_MODBUS%C2%A0Solis%20PV%C2%A0Grid-Connected%C2%A0Inverter.pdf
+# Solis Modbus reference document: https://oss.soliscloud.com/templet/RS485_MODBUS%C2%A0Solis%20PV%C2%A0Grid-Connected%C2%A0Inverter.pdf
+# Linked from: https://solis-service.solisinverters.com/en/support/solutions/articles/44002663852-modus-table-for-grid-and-hybrid-inverters
 #
 # Tested by agirilovich in June 2023
 #
